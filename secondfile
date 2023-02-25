@@ -2,4 +2,8 @@ this is my second file
 my changes
 my changes from local repo
 from branch
+<<<<<<< HEAD
 trying to resolve conflict
+=======
+trying for conflickt
+>>>>>>> ce358a554ea8d2872005d4872ce26743b75c70cf
